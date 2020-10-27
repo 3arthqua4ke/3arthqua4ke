@@ -20,10 +20,9 @@
  
 
 ## Contact:
-Vypr#6666 [Discord <img align="left" alt="Vypr#6666 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />](https://discord.bio/p/Vypr)
+[Vypr#6666 <img align="left" alt="Vypr#6666 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />](https://discord.bio/p/Vypr)
 
-Keybase [Keybase <img align="left" alt="vypr_ysl | Keybase" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/1114px-Keybase_logo_official.svg.png" />]
-(https://keybase.io/vypr_ysl)
+[Keybase <img align="left" alt="vypr_ysl | Keybase" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/1114px-Keybase_logo_official.svg.png" />](https://keybase.io/vypr_ysl)
 
 
 
