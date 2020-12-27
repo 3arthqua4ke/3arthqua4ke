@@ -20,4 +20,4 @@
  
 
 ## Contact:
-[Vypr#6666 <img align="left" alt="3arthqua4ke#6666 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />](https://discord.bio/p/Vypr)
+[3arthqua4ke#6666 <img align="left" alt="3arthqua4ke#6666 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />](https://discord.bio/p/Vypr)
